@@ -1,7 +1,15 @@
 ## 一人公司方法论
 
-## 文章授权
-本文采用 cc-by-nc-sa 协议。
+⚠️ watch 本 repo 及时获得文章更新通知
+
+## 作者和授权信息
+
+本文由 Easy 撰写。
+
+- weibo: https://weibo.com/easy
+- twitter: https://twitter.com/easychen
+
+本文在 cc-by-nc-sa 协议发布。
 
 - 您（用户）可以复制、发行、展览、表演、放映、广播或通过信息网络传播本作品
 - 必须署名作者并添加链接到本文。
