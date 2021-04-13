@@ -312,7 +312,7 @@ to B 的服务在价格上相对容易上去，但是在获客成本和开发工
 
 经过比较，我认为目前适合个人的消息触达方式是微信机器人/QQ机器人。通过关注机器人，发送 token 实现账号关联，之后就可以通过机器人推送消息给用户了。我知道的方案如下：
 
-- 微信机器人方案： [wechaty](https://github.com/wechaty/wechaty) (付费方案)
+- 微信机器人方案： [wechaty](https://wechaty.js.org/?utm_source=EasyChen&utm_medium=link&utm_campaign=one-person-businesses-methodology) (网页版协议免费，其他协议收费)
 - QQ机器人方案：[mirai](https://github.com/mamoe/mirai) （未亲测）
 
 机器人方案除了可以用作消息推送，还可以用作登入。比起通过支付接口的 openid api 登入而言，没有因 openid 改变导致用户无法登入的风险。
