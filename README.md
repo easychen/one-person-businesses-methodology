@@ -1,5 +1,9 @@
 ## 一人公司方法论
 
+> 本文部分内容已被收录于《全栈路线图》，[可点此查看高清版PDF和源文件](https://github.com/easychen/stack-roadmap)
+
+[![方糖全栈路线图](https://user-images.githubusercontent.com/1294760/210160612-68e4a551-47d8-4137-b2f1-4dd5fdf6d49d.jpg)](https://github.com/easychen/stack-roadmap)
+
 本系列文章会持续更新，微信扫码订阅主题，可第一时间获取更新信息。
 
 ![](qrcode.jpeg)
