@@ -1,5 +1,13 @@
 ## 一人公司方法论
 
+## 重大更新
+
+🎈 [《一人企业方法论2.0》已在CC-BY-NC-SA协议下发布，点此进入Repo](https://github.com/easychen/one-person-businesses-methodology-v2.0) 
+
+![](https://github.com/easychen/one-person-businesses-methodology-v2.0/raw/master/src/images/opb-book-cover.jpg)
+
+---
+
 > 本文部分内容已被收录于《全栈路线图》，[可点此查看高清版PDF和源文件](https://github.com/easychen/stack-roadmap)
 
 [![方糖全栈路线图](https://user-images.githubusercontent.com/1294760/210160612-68e4a551-47d8-4137-b2f1-4dd5fdf6d49d.jpg)](https://github.com/easychen/stack-roadmap)
